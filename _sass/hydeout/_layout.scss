@@ -25,12 +25,15 @@
 body {
   background-attachment: fixed;
   background-color: $sidebar-bg-color;
-  background-image: linear-gradient(to bottom, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%));
+  background-image: linear-gradient(
+    to bottom,
+    lighten($sidebar-bg-color, 7%),
+    darken($sidebar-bg-color, 7%)
+  );
   color: $sidebar-text-color;
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
-
+  min-height: 80vh;
 }
 
 #sidebar {
@@ -38,14 +41,16 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: 'Abril Fatface', serif;
+    font-family: "Abril Fatface", serif;
     font-size: $large-font-size;
     font-weight: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
   }
 
-  .site-title .back-arrow { margin-right: 0.5rem; }
+  .site-title .back-arrow {
+    margin-right: 0.5rem;
+  }
 }
 
 .content {
@@ -53,7 +58,6 @@ body {
   color: $body-color;
   padding: $section-spacing;
   text-align: justify;
-
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -65,7 +69,6 @@ body {
   > .content {
     flex-grow: 1;
     padding-bottom: $section-spacing * 2;
-
   }
 }
 
@@ -79,6 +82,10 @@ body {
   header ~ *,
   header ~ nav,
   p.lead {
+    display: block;
+  }
+
+  p.copyright {
     display: none;
   }
 }
@@ -87,10 +94,8 @@ body {
 .container > header {
   background: transparent;
   color: $sidebar-title-color;
-  margin:
-    ($heading-spacing - $section-spacing)
-    $section-spacing
-    $section-spacing;
+  margin: ($heading-spacing - $section-spacing)
+    $section-spacing $section-spacing;
 
   h1,
   h2 {
@@ -108,7 +113,6 @@ body {
 ----------------------------------------------------------- */
 
 .home #sidebar {
-
   // Center sidebar content
   text-align: center;
 
@@ -169,24 +173,22 @@ body {
     // Attach to bottom or top of window
     @if $sidebar-sticky {
       bottom: 0;
-    }
-
-    @else {
+    } @else {
       top: 0;
     }
 
     // Attach to right or left of window
     @if $layout-reverse {
       right: 0;
-    }
-
-    @else {
+    } @else {
       left: 0;
     }
 
     .site-title {
       font-size: 3.25rem;
-      .back-arrow { display: none; }
+      .back-arrow {
+        display: none;
+      }
     }
 
     p.lead,
@@ -199,23 +201,20 @@ body {
     }
   }
 
-  .index #sidebar { margin-bottom: 0; }
+  .index #sidebar {
+    margin-bottom: 0;
+  }
 
   // Make entire container background white to contrast against sidebar
   .container {
     background: $body-bg;
     color: $body-color;
     min-height: 100vh;
-    padding:
-      $section-spacing * 2
-      $section-spacing * 2
-      0;
+    padding: $section-spacing * 2 $section-spacing * 2 0;
 
     @if $layout-reverse {
       margin-right: $sidebar-width;
-    }
-
-    @else {
+    } @else {
       margin-left: $sidebar-width;
     }
 
@@ -255,7 +254,9 @@ body {
 #sidebar a:hover,
 #sidebar a:focus,
 #sidebar a.active {
-  svg { fill: $sidebar-icon-color; }
+  svg {
+    fill: $sidebar-icon-color;
+  }
 }
 
 #sidebar a:hover,
@@ -273,7 +274,9 @@ body {
 
 #sidebar .site-title {
   color: $sidebar-title-color;
-  a { color: inherit; }
+  a {
+    color: inherit;
+  }
 }
 
 #sidebar nav {
