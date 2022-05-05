@@ -12,6 +12,9 @@ title: Organizing Committee
 - Daniel Macedo Batista, University of São Paulo (batista@ime.usp.br)
 - Antonio Virdis, University of Pisa (antonio.virdis@unipi.it)
  
+### Technical Program Co-Chairs
+- Lorenzo Gigli, University of Bologna, Italy (lorenzo.gigli@unibo.it )
+
 ### Technical Program Committee:
 - Rodrigo Tinini, FEI, Brazil
 - Marco Di Felice, University of Bologna, Italy
