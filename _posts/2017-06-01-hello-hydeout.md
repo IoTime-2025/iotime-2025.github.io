@@ -15,7 +15,7 @@ Original, unpublished contributions are solicited in time-critical applications 
 - Digital Twins to support time-critical networking in Industrial IoT
 - Time-Critical IoT Applications
 - Machine learning solutions and approaches for time-critical IoT-based systems
-- Orchestration and Placement of computing and networking resources in the IoT Computer Continuum (Edge/Clod)
+- Orchestration and Placement of computing and networking resources in the IoT Computer Continuum (Edge/Cloud)
 - Performance Evaluation of time-critical IoT systems
 - Reference Architectures for Time-Critical Things
 - Management and Monitoring for Time-Critical Applications in IoT
