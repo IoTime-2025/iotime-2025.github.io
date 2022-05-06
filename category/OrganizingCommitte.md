@@ -7,12 +7,12 @@ title: Organizing Committee
 - Carlos Kamienski, Federal University of ABC, Brazil (cak@ufabc.edu.br)
 - Dave Cavalcanti, Intel Corporation, USA (dave.cavalcanti@intel.com)
  
-### Technical Program Co-Chairs
+### Technical Program Chairs
 - Ivan Zyrianoff, University of Bologna, Italy (ivandimitry.ribeiro@unibo.it)
 - Daniel Macedo Batista, University of São Paulo (batista@ime.usp.br)
 - Antonio Virdis, University of Pisa (antonio.virdis@unipi.it)
  
-### Technical Program Co-Chairs
+### Publicity Chair
 - Lorenzo Gigli, University of Bologna, Italy (lorenzo.gigli@unibo.it )
 
 ### Technical Program Committee:
