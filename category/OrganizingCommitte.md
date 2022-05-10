@@ -16,6 +16,7 @@ title: Organizing Committee
 - Lorenzo Gigli, University of Bologna, Italy (lorenzo.gigli@unibo.it )
 
 ### Technical Program Committee:
+- Swades De, IIT Delhi, India 
 - Rodrigo Tinini, FEI, Brazil
 - Marco Di Felice, University of Bologna, Italy
 - Ramide Dantas, IFPE, Brazil
