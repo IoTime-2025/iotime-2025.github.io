@@ -3,9 +3,9 @@ layout: category
 title: Important Dates
 ---
 
-- **EXTENDED** Submission deadline: ~~13 June 2022~~ ~~11 July 2022~~ **25 July 2022**
-- Acceptance Notification: 8 August 2022 (planned)
-- Camera-Ready Paper Submission Deadline: 21 August 2022 (planned)
+- **EXTENDED** Submission deadline: ~~13 June 2022~~ ~~11 July 2022~~ ~~25 July 2022~~ 1 August 2022
+- Acceptance Notification: 16 August 2022 (planned)
+- Camera-Ready Paper Submission Deadline: 31 August 2022 (planned)
 - Conference days: 26 October–11 November 2022
 - Workshop day: TBD
 
