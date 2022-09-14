@@ -3,9 +3,7 @@ layout: category
 title: Program
 ---
 
-## **Program Available**
-
-IoTime will be held at 11 of November, from 3pm until 7pm (JSP). 
+IoTime will be held on **11 of November, from 3 pm until 7 pm (JSP)**. 
 
 #### **Session #1 - Paper presentations**  3pm-5pm
 Each paper will have 20 min allocated to it, of this total, 15 min are for the presentation and the other 5 min for questions. 
