@@ -7,7 +7,7 @@ title: Important Dates
 - Acceptance Notification: 16 August 2022 (planned)
 - Camera-Ready Paper Submission Deadline: 31 August 2022 (planned)
 - Conference days: 26 October–11 November 2022
-- Workshop day: TBD
+- Workshop day: 11 November 2022
 
 ### Submission Instructions
 
