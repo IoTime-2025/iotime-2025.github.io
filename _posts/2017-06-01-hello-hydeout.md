@@ -30,23 +30,8 @@ Víctor M. G. Martínez: Universidade Federal do Espírito Santo (UFES) David A.
 
 #### **Session #2 - Keynote: Time Critical IoT for Industrial Automation: the Communication and System Perspectives by Prof. Zhibo Pang - 1h45** 5:15pm - 7pm
 
-* Keynote: Time Critical IoT for Industrial Automation: the Communication and System Perspectives - Prof. Zhibo Pang. <br>
+* **Keynote**: Time Critical IoT for Industrial Automation: the Communication and System Perspectives - Prof. Zhibo Pang. <br>
 **Abstract:** Industrial Internet-of-Things (IIoT) is one of the engines that have driven the 4th revolution of industries, or so-called Industry 4.0. From the communication and system perspectives, the industrial automation applications introduce not only stringent requirements in latency, reliability, and time synchronization, but also essential challenges to security, functional safety, and interoperability. In this talk, I will introduce the use cases and motivate the technical requirements from system perspectives. Then some latest progresses from academia and industry will be reported. Open challenges and promising directions of future research will be discussed in the end.  
 * BPA and final remarks - 15 min
 
-### Call for Technical Papers
-
-Original, unpublished contributions are solicited in time-critical applications for the Internet of Things. Time is a crucial and sensitive matter in most IoT-based systems and applications. Smart factories, mobile and collaborative robots, autonomous systems, and virtual/mixed reality are a few examples of the next wave of applications that rely on accurate time and bounded (low) latency computing and communications. **The IoTime Workshop looks for cutting-edge approaches in the IoT vertical - from sensors to applications - in which time plays a significant factor**. Possible topics include, but are not limited to:
-
-- Real test-beds, proof-of-concept, pilot site descriptions, and industry experience for Time-Critical IoT-based systems
-- Time-sensitive networking (TSN), Wireless TSN, and ultra-low latency, high-reliability communications
-- Digital Twins to support time-critical networking in Industrial IoT
-- Time-Critical IoT Applications
-- Machine learning solutions and approaches for time-critical IoT-based systems
-- Orchestration and Placement of computing and networking resources in the IoT Computer Continuum (Edge/Cloud)
-- Performance Evaluation of time-critical IoT systems
-- Reference Architectures for Time-Critical Things
-- Management and Monitoring for Time-Critical Applications in IoT
-- Efficient computing approaches for time-critical systems to decrease latency and computer resource usage
-- Caching policies, strategies, and architectures at the network edge for time-critical IoT systems
 
