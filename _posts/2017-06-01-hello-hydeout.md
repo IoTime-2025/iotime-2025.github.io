@@ -28,9 +28,10 @@ Víctor M. G. Martínez: Universidade Federal do Espírito Santo (UFES) David A.
 
 #### **Short Break - 15 minutes**
 
-#### **Session #2 - Keynote talk - 1h45** 5:15pm - 7pm
+#### **Session #2 - Keynote: Time Critical IoT for Industrial Automation: the Communication and System Perspectives by Prof. Zhibo Pang - 1h45** 5:15pm - 7pm
 
-* Keynote Presentation - 1h30 
+* Keynote: Time Critical IoT for Industrial Automation: the Communication and System Perspectives - Prof. Zhibo Pang. <br>
+**Abstract:** Industrial Internet-of-Things (IIoT) is one of the engines that have driven the 4th revolution of industries, or so-called Industry 4.0. From the communication and system perspectives, the industrial automation applications introduce not only stringent requirements in latency, reliability, and time synchronization, but also essential challenges to security, functional safety, and interoperability. In this talk, I will introduce the use cases and motivate the technical requirements from system perspectives. Then some latest progresses from academia and industry will be reported. Open challenges and promising directions of future research will be discussed in the end.  
 * BPA and final remarks - 15 min
 
 ### Call for Technical Papers
