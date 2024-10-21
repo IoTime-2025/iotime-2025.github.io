@@ -3,7 +3,9 @@ layout: category
 title: Program
 ---
 
-IoTime will be held on **11 of November, from 3 pm until 7 pm (JSP)**. 
+Program still not available
+
+<!-- IoTime will be held on **11 of November, from 3 pm until 7 pm (JSP)**. 
 
 #### **Session #1 - Paper presentations**  3pm-5pm
 Each paper will have 20 min allocated to it, of this total, 15 min are for the presentation and the other 5 min for questions. 
@@ -25,4 +27,4 @@ Víctor M. G. Martínez: Universidade Federal do Espírito Santo (UFES) David A.
 #### **Session #2 - Keynote talk - 1h45** 5:15pm - 7pm
 
 * Keynote Presentation - 1h30 
-* BPA and final remarks - 15 min
+* BPA and final remarks - 15 min -->

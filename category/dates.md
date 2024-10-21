@@ -1,14 +1,14 @@
 ---
 layout: category
-title: Important Dates
+title: Key Dates
 ---
 
-- **EXTENDED** Submission deadline: ~~13 June 2022~~ ~~11 July 2022~~ ~~25 July 2022~~ 1 August 2022
-- Acceptance Notification: 16 August 2022 (planned)
-- Camera-Ready Paper Submission Deadline: 31 August 2022 (planned)
-- Conference days: 26 October–11 November 2022
-- Workshop day: 11 November 2022
+- Submission deadline: *1 December 2024*
+- Acceptance Notification: *15 January 2025*
+- Camera-Ready Paper Submission Deadline: *1 February 2025*
+- Conference days: *24 - 27 March 2025 Milan, Italy*
+- Workshop day: *TBD*
 
 ### Submission Instructions
 
-Papers can be submitted at <https://www.scomminc.com/pcm/wfiot/wfiot.cfm>, choosing ‘A Technical Paper,’ then in the field ‘First choice of paper assignment’ select 'Workshops' and choose 'Work-09' in the track field. Papers should be six (6) pages in length. The conference allows up to two additional pages for a maximum length of eight (8) pages with payment of extra page charges once the paper has been accepted.
+Papers can be submitted at <https://edas.info/newPaper.php?c=32909&track=127531>. Papers should be six (6) pages in length. The conference allows up to two additional pages for a maximum length of eight (8) pages with payment of extra page charges once the paper has been accepted.
