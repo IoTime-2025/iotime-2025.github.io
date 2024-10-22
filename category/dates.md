@@ -9,6 +9,4 @@ title: Key Dates
 - Conference days: *24 - 27 March 2025 Milan, Italy*
 - Workshop day: *24 March 2025*
 
-### Submission Instructions
-
-Papers can be submitted at <https://edas.info/newPaper.php?c=32909&track=127531>. Papers should be six (6) pages in length. The conference allows up to two additional pages for a maximum length of eight (8) pages with payment of extra page charges once the paper has been accepted.
+**[Submission Instructions]({{ '/category/submission' | relative_url }})**

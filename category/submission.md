@@ -3,7 +3,7 @@ layout: category
 title: Submission Instructions
 ---
 
-Papers can be submitted at <https://edas.info/newPaper.php?c=32909&track=127531>. Papers should be six (6) pages in length. The conference allows up to two additional pages for a maximum length of eight (8) pages with payment of extra page charges once the paper has been accepted.
+Papers can be submitted at <https://edas.info/newPaper.php?c=32909&track=127531>. Papers should be six (6) pages in length. The conference allows one additional page for a maximum length of seven (7) pages with payment of extra page charges once the paper has been accepted.
 
 More infos regarding the submission guidelines can be found here:
 <https://wcnc2025.ieee-wcnc.org/call-workshop-papers>
