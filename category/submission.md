@@ -10,4 +10,4 @@ More infos regarding the submission guidelines can be found here:
 
 #### For technical issue, please contact:
 -  Dr. Ivan Zyrianoff, University of Bologna, Italy (<ivandimitry.ribeiro@unibo.it>)
--  Leonardo Montecchiari, Technology Innovation Institute (TII), UAE (<leonardo.montecchiari@tii.ae>)
+-  Dr. Leonardo Montecchiari, Technology Innovation Institute (TII), UAE (<leonardo.montecchiari@tii.ae>)
